@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FastNewsActivity</string>
+
+    <string name="search_here">Search Here</string>
+    <string name="results_found">%1$s result(s) found.</string>
+    <string name="search">Search</string>
+    <string name="err_search_text_empty">Please enter some keyword</string>
+
+    <string name="search_news">Search for latest news</string>
+
+    <string name="news_details">News Details</string>
+    <string name="author_by">By %1$s</string>
+    <string name="read_more_at">Read more at
+        <u>%1$s</u>
+    </string>
+
+    <string name="top_headlines">Top Headlines</string>
+
+    <string name="something_went_wrong">Something went wrong. Please try again.</string>
+</resources>

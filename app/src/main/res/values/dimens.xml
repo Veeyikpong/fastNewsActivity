@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_default">14dp</dimen>
+    <dimen name="padding_default">16dp</dimen>
+    <dimen name="margin_news_item">10dp</dimen>
+
+    <dimen name="text_14">14sp</dimen>
+    <dimen name="text_15">15sp</dimen>
+    <dimen name="text_20">20sp</dimen>
+    <dimen name="text_25">25sp</dimen>
+</resources>
